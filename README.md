@@ -7,3 +7,6 @@ Here is the python based code for the program.
 2. A x-y coordinate plot will appear, and after cancelling the plot window, the simulation will be opened in the local host of the browser.
 3. Press **Run** to start the simulation and **Pause** to pause it. 
 4. You can try to change the paramters to play with the simulation. 
+
+**If you don't have Vpython installed, then it is necessary to pre-install it**
+
